@@ -1,0 +1,2 @@
+*.pyc\n*.sublime-*\n.DS_Store
+*.ipynb_checkpoints/
